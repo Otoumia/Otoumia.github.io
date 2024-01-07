@@ -31,9 +31,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>movies</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,22 +64,22 @@
     
     
     <entry>
-      <title>movies</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>5.2添加标签页</p><p>根目录输入 hexo new page tags</p><p>找到 source&#x2F;tags&#x2F;index.md 这个文件，修改这个文件：</p><p>添加 type: “tags”</p><hr><h2 id="title-标签date-2018-01-05-00-00-00type-“tags”orderby-randomorder-1"><a href="#title-标签date-2018-01-05-00-00-00type-“tags”orderby-randomorder-1" class="headerlink" title="title: 标签date: 2018-01-05 00:00:00type: “tags”orderby: randomorder: 1"></a>title: 标签<br>date: 2018-01-05 00:00:00<br>type: “tags”<br>orderby: random<br>order: 1</h2>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p>5.2添加标签页</p><p>根目录输入 hexo new page tags</p><p>找到 source&#x2F;tags&#x2F;index.md 这个文件，修改这个文件：</p><p>添加 type: “tags”</p><hr><h2 id="title-标签date-2018-01-05-00-00-00type-“tags”orderby-randomorder-1"><a href="#title-标签date-2018-01-05-00-00-00type-“tags”orderby-randomorder-1" class="headerlink" title="title: 标签date: 2018-01-05 00:00:00type: “tags”orderby: randomorder: 1"></a>title: 标签<br>date: 2018-01-05 00:00:00<br>type: “tags”<br>orderby: random<br>order: 1</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
